@@ -3,6 +3,10 @@
 Hello! This is a simple calculator web page I built using **HTML, CSS, and JavaScript**. I made this to practice the basics of web development and learn how to handle button clicks and math logic in JS.
 
 ---
+## 🔗 Live Demo
+Check out the live site here: **[https://aritrabasu82.github.io/Calculator/]**
+
+---
 
 ## 🛠️ How I Built It
 
